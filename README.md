@@ -6,7 +6,8 @@ This Python script provides an interactive graphical interface for selecting cha
 
 ---
 
-![Profile](https://github.com/user-attachments/assets/7bbedf3a-6e66-4f81-8e09-f3b0a2680132)
+![Profile](https://github.com/user-attachments/assets/794ec02b-3d9f-4236-8313-e1fd09469d72)
+
 
 ## ✨ Features | 功能 ✨
 
