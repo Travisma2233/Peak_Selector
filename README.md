@@ -6,6 +6,8 @@ This Python script provides an interactive graphical interface for selecting cha
 
 ---
 
+![Profile](https://github.com/user-attachments/assets/7bbedf3a-6e66-4f81-8e09-f3b0a2680132)
+
 ## ✨ Features | 功能 ✨
 
 *   **Interactive Plotting:** Visualizes data row by row using Matplotlib. 📊
